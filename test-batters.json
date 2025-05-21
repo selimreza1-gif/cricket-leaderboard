@@ -4,7 +4,39 @@
     "rank": 1,
     "country": "England",
     "points": 875,
-    "image": "https://example.com/joe.jpg",
-    "flag": "🇬🇧"
+    "image": "https://i.ibb.co/X2ckQp5/root.jpg",
+    "flag": "\ud83c\uddec\ud83c\udde7"
+  },
+  {
+    "name": "Steve Smith",
+    "rank": 2,
+    "country": "Australia",
+    "points": 860,
+    "image": "https://i.ibb.co/w4bvW7W/smith.jpg",
+    "flag": "\ud83c\udde6\ud83c\uddfa"
+  },
+  {
+    "name": "Kane Williamson",
+    "rank": 3,
+    "country": "New Zealand",
+    "points": 845,
+    "image": "https://i.ibb.co/g6ZzMGN/kane.jpg",
+    "flag": "\ud83c\uddf3\ud83c\uddff"
+  },
+  {
+    "name": "Marnus Labuschagne",
+    "rank": 4,
+    "country": "Australia",
+    "points": 828,
+    "image": "https://i.ibb.co/G0Z5C5Z/marnus.jpg",
+    "flag": "\ud83c\udde6\ud83c\uddfa"
+  },
+  {
+    "name": "Cheteshwar Pujara",
+    "rank": 5,
+    "country": "India",
+    "points": 812,
+    "image": "https://i.ibb.co/n06mB4J/pujara.jpg",
+    "flag": "\ud83c\uddee\ud83c\uddf3"
   }
 ]
