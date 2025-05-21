@@ -1,1 +1,37 @@
+function generateImageUrl(name) {
+  const fileName = name.toLowerCase().replace(/\s+/g, '-');
+  return `https://selimreza1-gif.github.io/cricket-leaderboard/images/${fileName}.jpg`;
+}
+
+async function loadCustomData(format) {
+  currentTab = format;
+  document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+  document.querySelector(`.tab-btn[onclick="loadCustomData('${format}')"]`).classList.add('active');
+
+  const container = document.getElementById("custom-leaderboard-body");
+  container.innerHTML = "Loading...";
+
+  try {
+    const response = await fetch(customDataSources[format]);
+    let data = await response.json();
+    data = data.slice(0, 5);
+
+    container.innerHTML = data.map(player => {
+      const imageUrl = player.image || generateImageUrl(player.name);
+      return `
+        <div class="player-row" itemscope itemtype="https://schema.org/Person">
+          <img src="${imageUrl}" alt="${player.name}" itemprop="image">
+          <div class="player-details">
+            <strong itemprop="name">${player.name}</strong>
+            <span>${player.flag || ''} <span itemprop="nationality">${player.country}</span></span>
+          </div>
+          <div class="player-points" itemprop="award">${player.points} pts</div>
+        </div>
+      `;
+    }).join('');
+  } catch (error) {
+    container.innerHTML = "Error loading data.";
+    console.error(error);
+  }
+}
 
