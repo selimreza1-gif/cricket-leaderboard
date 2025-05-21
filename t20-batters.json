@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Travis Head",
+    "rank": 1,
+    "country": "Australia",
+    "points": 856,
+    "image": "https://example.com/travis.jpg",
+    "flag": "🇦🇺"
+  },
+  {
+    "name": "Abhishek Sharma",
+    "rank": 2,
+    "country": "India",
+    "points": 829,
+    "image": "https://example.com/abhishek.jpg",
+    "flag": "🇮🇳"
+  },
+  {
+    "name": "Phil Salt",
+    "rank": 3,
+    "country": "England",
+    "points": 815,
+    "image": "https://example.com/phil.jpg",
+    "flag": "🇬🇧"
+  }
+]
