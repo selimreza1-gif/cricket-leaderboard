@@ -4,7 +4,39 @@
     "rank": 1,
     "country": "India",
     "points": 890,
-    "image": "https://example.com/virat.jpg",
-    "flag": "🇮🇳"
+    "image": "https://i.ibb.co/JmNcSy9/virat.jpg",
+    "flag": "\ud83c\uddee\ud83c\uddf3"
+  },
+  {
+    "name": "Babar Azam",
+    "rank": 2,
+    "country": "Pakistan",
+    "points": 865,
+    "image": "https://i.ibb.co/D7MJ7nt/babar.jpg",
+    "flag": "\ud83c\uddf5\ud83c\uddf0"
+  },
+  {
+    "name": "Rassie van der Dussen",
+    "rank": 3,
+    "country": "South Africa",
+    "points": 840,
+    "image": "https://i.ibb.co/gmbPGbS/rassie.jpg",
+    "flag": "\ud83c\uddff\ud83c\udde6"
+  },
+  {
+    "name": "David Warner",
+    "rank": 4,
+    "country": "Australia",
+    "points": 825,
+    "image": "https://i.ibb.co/g9krnFC/warner.jpg",
+    "flag": "\ud83c\udde6\ud83c\uddfa"
+  },
+  {
+    "name": "Shubman Gill",
+    "rank": 5,
+    "country": "India",
+    "points": 810,
+    "image": "https://i.ibb.co/Kw0PZRc/gill.jpg",
+    "flag": "\ud83c\uddee\ud83c\uddf3"
   }
 ]
