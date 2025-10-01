@@ -5,7 +5,7 @@
     "country": "India",
     "points": 926,
     "image": "https://github.com/selimreza1-gif/cricket-leaderboard/blob/main/images.jpeg?raw=true",
-
+ "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
     "name": "Phil Salt",
@@ -13,6 +13,7 @@
     "country": "England",
     "points": 844,
     "image": "https://github.com/selimreza1-gif/cricket-leaderboard/blob/main/images.jpeg?raw=true",
+     "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
     "name": "Tamim",
