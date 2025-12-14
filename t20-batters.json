@@ -11,15 +11,15 @@
     "name": "Phil Salt",
     "rank": 2,
     "country": "England",
-    "points": 844,
+    "points": 849,
     "image": "https://github.com/selimreza1-gif/cricket-leaderboard/blob/main/46-camedia.png",
      "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
-    "name": "Tilak Varma",
+    "name": "Pathum Nissanka",
     "rank": 3,
-    "country": "India",
-    "points": 819,
+    "country": "Sri Lanka",
+    "points": 779,
     "image": "https://i.ibb.co/GHjvMNz/phil.jpg",
     "flag": "\ud83c\uddec\ud83c\udde7"
   },
@@ -27,15 +27,15 @@
     "name": "Jos Buttler",
     "rank": 4,
     "country": "Englan",
-    "points": 785,
+    "points": 770,
     "image": "https://i.ibb.co/WDzHX9D/surya.jpg",
     "flag": "\ud83c\uddee\ud83c\uddf3"
   },
   {
-    "name": "Pathum Nissanka",
+    "name": "Sahibzada Farhan",
     "rank": 5,
-    "country": "Srilanka",
-    "points": 779,
+    "country": "Pakistan",
+    "points": 752,
     "image": "https://i.ibb.co/6wmM2jK/rizwan.jpg",
     "flag": "\ud83c\uddf5\ud83c\uddf0"
   }
