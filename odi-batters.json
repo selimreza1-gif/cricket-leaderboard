@@ -1,33 +1,33 @@
 [
   {
-    "name": " Rohit Sharma",
+    "name": " Daryl Mitchell",
     "rank": 1,
-    "country": "India",
-    "points": 781,
+    "country": "New Zealand",
+    "points": 815,
     "image": "https://i.ibb.co/JmNcSy9/virat.jpg",
     "flag": "\ud83c\uddee\ud83c\uddf3"
   },
   {
-    "name": "Babar Azam",
+    "name": "Virat Kohli",
     "rank": 2,
-    "country": "Pakistan",
-    "points": 865,
+    "country": "India",
+    "points": 791,
     "image": "https://i.ibb.co/D7MJ7nt/babar.jpg",
     "flag": "\ud83c\uddf5\ud83c\uddf0"
   },
   {
-    "name": "Rassie van der Dussen",
+    "name": "Ibrahim Zadran",
     "rank": 3,
-    "country": "South Africa",
-    "points": 840,
+    "country": "Afghanistan",
+    "points": 756,
     "image": "https://i.ibb.co/gmbPGbS/rassie.jpg",
     "flag": "\ud83c\uddff\ud83c\udde6"
   },
   {
-    "name": "David Warner",
+    "name": "Rohit Sharma",
     "rank": 4,
-    "country": "Australia",
-    "points": 825,
+    "country": "India",
+    "points": 748,
     "image": "https://i.ibb.co/g9krnFC/warner.jpg",
     "flag": "\ud83c\udde6\ud83c\uddfa"
   },
@@ -35,7 +35,7 @@
     "name": "Shubman Gill",
     "rank": 5,
     "country": "India",
-    "points": 810,
+    "points": 716,
     "image": "https://i.ibb.co/Kw0PZRc/gill.jpg",
     "flag": "\ud83c\uddee\ud83c\uddf3"
   }
