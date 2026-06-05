@@ -3,39 +3,39 @@
     "name": "Abhishek",
     "rank": 1,
     "country": "India",
-    "points": 913,
+    "points": 875,
     "image": "https://github.com/selimreza1-gif/cricket-leaderboard/blob/main/images.jpeg?raw=true",
  "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
-    "name": "Phil Salt",
+    "name": "Ishan Kishan",
     "rank": 2,
-    "country": "England",
-    "points": 849,
+    "country": "India",
+    "points": 871,
     "image": "https://github.com/selimreza1-gif/cricket-leaderboard/blob/main/46-camedia.png",
      "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
-    "name": "Pathum Nissanka",
+    "name": "Sahibzada Farhan",
     "rank": 3,
-    "country": "Sri Lanka",
-    "points": 779,
+    "country": "Pakistan",
+    "points": 848,
     "image": "https://i.ibb.co/GHjvMNz/phil.jpg",
     "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
-    "name": "Jos Buttler",
+    "name": "Phil Salt",
     "rank": 4,
-    "country": "Englan",
-    "points": 770,
+    "country": "England",
+    "points": 792,
     "image": "https://i.ibb.co/WDzHX9D/surya.jpg",
     "flag": "\ud83c\uddee\ud83c\uddf3"
   },
   {
-    "name": "Sahibzada Farhan",
+    "name": "Pathum Nissanka",
     "rank": 5,
-    "country": "Pakistan",
-    "points": 752,
+    "country": "Sri Lanka",
+    "points": 766,
     "image": "https://i.ibb.co/6wmM2jK/rizwan.jpg",
     "flag": "\ud83c\uddf5\ud83c\uddf0"
   }
