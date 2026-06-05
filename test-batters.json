@@ -3,39 +3,39 @@
     "name": "Joe Root",
     "rank": 1,
     "country": "England",
-    "points": 875,
+    "points": 880,
     "image": "https://i.ibb.co/X2ckQp5/root.jpg",
     "flag": "\ud83c\uddec\ud83c\udde7"
   },
   {
-    "name": "Steve Smith",
+    "name": "Harry Brook",
     "rank": 2,
-    "country": "Australia",
-    "points": 860,
+    "country": "England",
+    "points": 857,
     "image": "https://i.ibb.co/w4bvW7W/smith.jpg",
     "flag": "\ud83c\udde6\ud83c\uddfa"
   },
   {
-    "name": "Kane Williamson",
+    "name": "Travis Head",
     "rank": 3,
-    "country": "New Zealand",
-    "points": 845,
+    "country": "Australia",
+    "points": 853,
     "image": "https://i.ibb.co/g6ZzMGN/kane.jpg",
     "flag": "\ud83c\uddf3\ud83c\uddff"
   },
   {
-    "name": "Marnus Labuschagne",
+    "name": "Steve Smith",
     "rank": 4,
     "country": "Australia",
-    "points": 828,
+    "points": 831,
     "image": "https://i.ibb.co/G0Z5C5Z/marnus.jpg",
     "flag": "\ud83c\udde6\ud83c\uddfa"
   },
   {
-    "name": "Cheteshwar Pujara",
+    "name": "Kane Williamson",
     "rank": 5,
-    "country": "India",
-    "points": 812,
+    "country": "New Zealand",
+    "points": 807,
     "image": "https://i.ibb.co/n06mB4J/pujara.jpg",
     "flag": "\ud83c\uddee\ud83c\uddf3"
   }
